@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Matt Chang
 
-<!--
-**echoedinvoker/echoedinvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack engineer based in Taiwan. I build web apps with AI integration, data visualization, and modern frontend frameworks.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [DocuMap](https://documap.vercel.app) | AI-Powered Knowledge Mapping
+Paste any text, and AI extracts key concepts and relationships, then renders an interactive knowledge graph with D3.js.
+
+**Nuxt 4 / Vue 3 / TypeScript / D3.js / Claude API**
+
+### [Physics Knowledge Base](https://physics-kb.fly.dev) | AI-Driven Study Assistant
+An AI agent that answers physics questions using a curated knowledge base of atomic notes. Supports concept lookup, problem solving, and quiz generation via natural language.
+
+**TypeScript / Bun / Agentic AI / RAG**
+
+### [Physics Knowledge Garden](https://physics-garden.pages.dev) | Interactive Textbook Wiki
+Transforms textbook content (including scanned PDFs) into a Wikipedia-style knowledge site with interlinked concepts for quick navigation.
+
+**Quartz / Markdown / Cloudflare Pages**
+
+## Tech Stack
+
+**Frontend:** Vue.js, Nuxt, TypeScript, D3.js, Three.js
+**Backend:** Node.js, Bun, Python
+**AI:** Claude API, Agentic Workflows, RAG
+**DevOps:** Docker, Fly.io, Vercel, Cloudflare Pages
