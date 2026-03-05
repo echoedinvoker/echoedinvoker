@@ -4,6 +4,16 @@ Fullstack engineer based in Taiwan. I build web apps with AI integration, data v
 
 ## Featured Projects
 
+### [KnowBase Landing](https://knowbase-landing-light.pages.dev) | AI Education Product Page
+A product landing page for an AI-powered physics study assistant. Designed and built with Pencil.dev + hand-tuned CSS, featuring full RWD and warm editorial aesthetics.
+
+**HTML / CSS / Responsive Design / Pencil.dev / Cloudflare Pages**
+
+### [InBody Analyzer](https://inbody-analyzer.fly.dev) | AI Body Composition Tracker
+Upload an InBody report photo → AI extracts measurements → trend charts → group leaderboard with gamification. 6 active users. Click "以訪客身份體驗" to try the demo.
+
+**Bun / Hono / SQLite / Claude Vision / Chart.js / Fly.io**
+
 ### [DocuMap](https://documap.vercel.app) | AI-Powered Knowledge Mapping
 Paste any text, and AI extracts key concepts and relationships, then renders an interactive knowledge graph with D3.js.
 
