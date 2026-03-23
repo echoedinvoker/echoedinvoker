@@ -4,6 +4,11 @@ Fullstack engineer based in Taiwan. I build web apps with AI integration, data v
 
 ## Featured Projects
 
+### [GIS Weather Demo](https://gis-weather-demo.pages.dev) | Taiwan Weather Monitoring Dashboard
+Real-time weather data from 853 CWA stations on an interactive map. Spatial range queries with PostGIS, disaster alerts (high temp / strong wind / heavy rain), and dark mode. [Source](https://github.com/echoedinvoker/gis-demo)
+
+**Vue 3 / Quasar / Leaflet / Python FastAPI / PostgreSQL + PostGIS / Supabase / Fly.io**
+
 ### [KnowBase Landing](https://knowbase-landing-light.pages.dev) | AI Education Product Page
 A product landing page for an AI-powered physics study assistant. Designed and built with Pencil.dev + hand-tuned CSS, featuring full RWD and warm editorial aesthetics.
 
@@ -32,6 +37,6 @@ Transforms textbook content (including scanned PDFs) into a Wikipedia-style know
 ## Tech Stack
 
 **Frontend:** Vue.js, Nuxt, TypeScript, D3.js, Three.js
-**Backend:** Node.js, Bun, Python
+**Backend:** Node.js, Bun, Python, FastAPI, PostgreSQL/PostGIS
 **AI:** Claude API, Agentic Workflows, RAG
-**DevOps:** Docker, Fly.io, Vercel, Cloudflare Pages
+**DevOps:** Docker, Fly.io, Vercel, Cloudflare Pages, Supabase
